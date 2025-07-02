@@ -7,11 +7,11 @@
 
 ### 🚀 Sobre Mim
 
-👀 Meu nome é **Hayyra Eduarda**, e sou uma **Desenvolvedora de Jogos** e **Programadora Back-end** em formação, apaixonada por construir soluções robustas, eficientes e inovadoras.
+👀 Meu nome é **Hayyra Eduarda**, e sou uma entusiasta na área de tecnologia 
 
 🌱 Atualmente, estou focada em aprimorar minhas habilidades em linguagens como **Java** e **Python**, explorando os ecossistemas de desenvolvimento web e a lógica de criação de jogos. Busco constantemente novos desafios e oportunidades para aplicar e expandir meus conhecimentos em tecnologia.
 
-📫 Fique à vontade para entrar em contato comigo pelo meu e-mail: **seuemail@gmail.com** ---
+📫 Fique à vontade para entrar em contato comigo pelo meu e-mail: **hayyraroc@gmail.com** ---
 
 ### 📊 GitHub Stats
 
@@ -28,8 +28,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
-
-| Categoria                | Ferramentas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 | **Linguagens** | <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <img align="center"  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> |
 | **Frameworks/Libs** | <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> <img align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"> <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> <img align="center" alt="Swing" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> |
 | **Banco de Dados** | <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"> |
@@ -41,5 +40,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 Estou aberta a novas oportunidades e colaborações! Sinta-se à vontade para me contatar através do meu e-mail (**hayyraroc@gmail.com**) ou 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayyraeduarda/) 
 
