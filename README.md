@@ -42,7 +42,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ### 💼 Contato para Vaga
 
-Estou aberta a novas oportunidades e colaborações! Sinta-se à vontade para me contatar através do meu e-mail (**hayyraroc@gmail.com**) ou 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayyraeduarda/) 
+Estou aberta a novas oportunidades e colaborações! Sinta-se à vontade para me contatar através do meu e-mail (**hayyraroc@gmail.com**) ou [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayyraeduarda/) 
 
